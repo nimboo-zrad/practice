@@ -1,0 +1,33 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "just to practice",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "npm server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimboo-zrad/practice.git"
+  },
+  "keywords": [
+    "network",
+    "backend",
+    "javascript",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "nima ziaei rad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimboo-zrad/practice/issues"
+  },
+  "homepage": "https://github.com/nimboo-zrad/practice#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
