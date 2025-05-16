@@ -4,7 +4,7 @@
   "description": "just to practice",
   "main": "server.mjs",
   "scripts": {
-    "test": "npm server.mjs"
+    "test": "nodemon server.mjs"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   ],
   "author": "nima ziaei rad",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/nimboo-zrad/practice/issues"
   },
